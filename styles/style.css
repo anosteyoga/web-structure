@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@0,400;0,600;1,400&family=Fjalla+One&display=swap');
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-color: #fff5ea;
+	margin: 20px;
+}
+
+h2 {
+	font-family: 'Fjalla One', sans-serif;
+	color: #968c83;
+}
+
+p {
+	font-family: 'Barlow Condensed', sans-serif;
+	font-size: 15pt;
+	color: #968c83;
+}
+
+.paragraph {
+	margin-top: 30px;
+}
+
+.container-img {
+	margin-top: 20px;
+}
